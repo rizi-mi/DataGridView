@@ -1,0 +1,12 @@
+C:\Users\malya\source\repos\LAB#5\LAB#5\bin\Debug\LAB#5.exe.config
+C:\Users\malya\source\repos\LAB#5\LAB#5\bin\Debug\LAB#5.exe
+C:\Users\malya\source\repos\LAB#5\LAB#5\bin\Debug\LAB#5.pdb
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB#5.csproj.AssemblyReference.cache
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB#5.csproj.SuggestedBindingRedirects.cache
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB_5.Form1.resources
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB_5.Properties.Resources.resources
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB#5.csproj.GenerateResource.cache
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB#5.csproj.CoreCompileInputs.cache
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB#5.exe
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB#5.pdb
+C:\Users\malya\source\repos\LAB#5\LAB#5\obj\Debug\LAB_5.Form2.resources
